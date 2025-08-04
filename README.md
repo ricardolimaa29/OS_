@@ -40,6 +40,11 @@ print("Pasta criada!")
 os.rmdir("NovaPasta")
 print("Pasta removida!")
 ```
+*
+open("Projetos/matematica.txt", "w").close()
+open("Projetos/portugues.txt", "w").close()
+open("Projetos/ciencias.txt", "w").close()
+*
 
 **Objetivo:** Mostrar como criar organização de pastas por código.
 
